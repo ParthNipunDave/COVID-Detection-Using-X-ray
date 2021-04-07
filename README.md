@@ -6,10 +6,4 @@ The task was of Image Classification. For that competition I used two approaches
   <li> RamdomForestClassifier</li>
  </ol>
  Where RandomForestClassifier helped me gain 13<sup>th</sup> rank in that competition.
- This repository contains 2 files
- <ol><li>Jupyter notebook of ResNet50 implementation</li>
-  <li>Jupyter notebook of RandomForestImplementation</li>
-  
-Both jupyter notebook is documented enough to give you brief idea of project and approach.
-
- 
+ Later I thought of implementing ResNet50 model on this dataset. This repository contains Jupyter notebook file in which ResNet is implemented.
